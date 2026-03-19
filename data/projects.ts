@@ -15,6 +15,15 @@ export const projects = [
         projectImage: "/project2.png",
         projectPreviewLink: "https://turbofit-five.vercel.app/",
         projectSourceCode: "https://github.com/zxaxkrm/turbofit"
+    },
+
+     {
+        id: 3,
+        projectTitle: "Oogway",
+        projectDescription: "A platform where founders pitch their startups, attract early users, and connect with investors all in one place",
+        projectImage: "/project3.png",
+        projectPreviewLink: "https://Oogway-seven.vercel.app/",
+        projectSourceCode: "https://github.com/zxaxkrm/oogway"
     }
 
 ];
