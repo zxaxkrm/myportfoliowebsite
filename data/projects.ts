@@ -24,6 +24,15 @@ export const projects = [
         projectImage: "/project3.png",
         projectPreviewLink: "https://Oogway-seven.vercel.app/",
         projectSourceCode: "https://github.com/zxaxkrm/oogway"
+    },
+
+    {
+        id: 4,
+        projectTitle: "Orda",
+        projectDescription: "E-commerce platform built with Next.js, featuring a product catalog with search, filtering, and pagination via the DummyJSON API using Google OAuth authentication, Zustand and PostgreSQL. Page performance is optimized using Partial Prerendering.",
+         projectImage: "/project4.png",
+        projectPreviewLink: "https://Orda-cyan.vercel.app/",
+        projectSourceCode: "https://github.com/zxaxkrm/Orda"
     }
 
 ];
