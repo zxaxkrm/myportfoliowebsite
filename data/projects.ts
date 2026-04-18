@@ -20,7 +20,7 @@ export const projects = [
      {
         id: 3,
         projectTitle: "Oogway",
-        projectDescription: "A platform where founders pitch their startups, attract early users, and connect with investors all in one place",
+        projectDescription: "A scalable and responsive full-stack web application using Next.js, focusing on reusable components, optimized performance, and clean architecture. Implemented dynamic routing, API integration, and state management to deliver a smooth user experience across devices.",
         projectImage: "/project3.png",
         projectPreviewLink: "https://Oogway-seven.vercel.app/",
         projectSourceCode: "https://github.com/zxaxkrm/oogway"
